@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="check_connection">Provjerite WiFi</string>
+    <string name="connection_ok">WiFi OK</string>
+    <string name="welcome">Dobrodošli u MessageApp</string>
+    <string name="username">Korisničko ime</string>
+    <string name="first_name">Ime</string>
+    <string name="phone_number">Telefon</string>
+    <string name="last_name">Prezime</string>
+    <string name="password">Lozinka</string>
+    <string name="telephone">Broj telefona</string>
+    <string name="login">Prijava</string>
+    <string name="net_error">Provjerite internetsku vezu</string>
+    <string name="cancel">Odustani</string>
+    <string name="chat_name">Ime chat-a:</string>
+    <string name="creator_name">Ime kreatora:</string>
+    <string name="date_created">Kreirano:</string>
+    <string name="phone_num_length_error">Broj ne može imati manje od 3 znaka</string>
+    <string name="last_name_length_error">Prezime ne može imati manje od 3 znaka</string>
+    <string name="username_length_error">Korisničko ime ne može imati manje od 3 znaka ili sadržavati razmak</string>
+    <string name="password_length_error">Lozinka ne može imati manje od 3 znaka</string>
+    <string name="email_length_error">Email ne može imati manje od 3 znaka</string>
+    <string name="press_register">Dodirni gumb za registraciju</string>
+    <string name="backPressed" >Dodirni gumb dva puta za izlazak</string>
+    <string name="email_match_error">Email ne odgovara uzorku</string>
+    <string name="register">Registriraj se</string>
+    <string name="register_user">Registriraj korisnika</string>
+    <string name="hi_name" >Bok %1$s!</string>
+    <string name="inbox">Primljeno</string>
+    <string name="contacts">Kontakti</string>
+    <string name="logout">Odjavi se</string>
+    <string name="me">Ja</string>
+    <string name="token">%1$s</string>
+    <string name="myId">%1$s</string>
+
+</resources>
