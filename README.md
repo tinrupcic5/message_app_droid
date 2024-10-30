@@ -1,4 +1,4 @@
-# MessageApp_droid Setup Guide
+# MessageApp_droid Setup Guide :bee:
 
 MessageApp_droid is an Android application that enables users to register, log in, and chat one-on-one with other registered users using the MessageApp REST API. Key features include user registration, automatic login, individual chat functionality, and a contacts view for managing registered contacts.
 
@@ -68,4 +68,19 @@ Integrating Firebase into the MessageApp_droid project allows for enhanced featu
 
 1. After registering your app, click **Download google-services.json**.
 2. Place the `google-services.json` file in the `app/` directory of your Android project.
+
+## Running the Backend
+
+You also need to set up and run the backend for the MessageApp. Follow these steps:
+
+### Step 1: Clone the Backend Repository
+
+Clone the backend repository from GitHub:
+
+```bash
+git clone https://github.com/tinrupcic5/message_rest_api.git
+```
+
+### Step 2: Run Backend project 
+:rocket:
 
