@@ -1,4 +1,4 @@
-# MessageApp_droid Setup Guide :bee:
+# MessageApp droid :bee:
 
 MessageApp_droid is an Android application that enables users to register, log in, and chat one-on-one with other registered users using the MessageApp REST API. Key features include user registration, automatic login, individual chat functionality, and a contacts view for managing registered contacts.
 
