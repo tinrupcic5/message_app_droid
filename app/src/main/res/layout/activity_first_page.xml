@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--the root view must be the DrawerLayout-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/down_nav_bar"
+    android:orientation="vertical">
+
+
+    <include
+        layout="@layout/content_first_page_floating"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
+

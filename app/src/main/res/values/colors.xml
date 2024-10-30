@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#168EC3</color>
+    <color name="colorSea">#7BCAED</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteGrey">#E1DCDC</color>
+    <color name="lightgrey">#E4E3E3</color>
+    <color name="grey">#696665</color>
+    <color name="dark_grey">#424040</color>
+    <!--    side navBar-->
+    <color name="sideNavBarFirst">#B3BBEA</color>
+    <color name="sideNavBarSec">#546BE6</color>
+    <color name="sideNavBarThird">#3F51B5</color>
+    <color name="dark_light_grey">#F4F2F2</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#7ACF77</color>
+    <color name="lightgreen">#E0F5FF</color>
+    <color name="light">#E1E6E8</color>
+    <color name="light_green">#F6FFF6</color>
+    <color name="red">#CF7777</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

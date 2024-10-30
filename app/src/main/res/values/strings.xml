@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MessageApp</string>
+    <string name="check_connection">Check your WiFi</string>
+    <string name="connection_ok">WiFi OK</string>
+    <string name="api_url" translatable="false">http://10.0.2.2:8080/api/</string>
+    <string name="welcome">Welcome to MessageApp</string>
+    <string name="first_name">First name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="last_name">Last name</string>
+    <string name="username">Username</string>
+    <string name="telephone">Phone number</string>
+    <string name="password">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="login">Login</string>
+    <string name="net_error">Check internet connection</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_num_length_error">Number cannot be less than 3 characters</string>
+    <string name="last_name_length_error">Last name cannot be less than 3 characters</string>
+    <string name="username_length_error">Username cannot be less than 3 characters or have space init</string>
+    <string name="password_length_error">Password cannot be less than 3 characters</string>
+    <string name="email_length_error">Email cannot be less than 3 characters</string>
+    <string name="email_match_error">Email does not match the pattern</string>
+    <string name="press_register">Press register button to register the user</string>
+    <string name="register">Register</string>
+    <string name="register_user">Register user</string>
+    <string name="value" translatable="false">value</string>
+    <string name="chat_name">Chat name:</string>
+    <string name="creator_name">Creator name:</string>
+    <string name="date_created">Created:</string>
+    <string name="hi_name">Hi %1$s!</string>
+    <string name="notify" translatable="false">%1$s!</string>
+    <string name="backPressed">Tap back button in order to exit</string>
+    <string name="inbox">Inbox</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout">Logout</string>
+    <string name="me">Me</string>
+    <string name="token">%1$s</string>
+    <string name="myId">%1$s</string>
+    <string name="toster" translatable="false">toster</string>
+    <!--    navigation drawer-->
+    <string name="navigation_drawer_open" translatable="false" tools:ignore="DuplicateDefinition">Open navig drawer</string>
+    <string name="navigation_drawer_close" translatable="false" tools:ignore="DuplicateDefinition">Close navig drawer</string>
+</resources>
