@@ -7,20 +7,20 @@ MessageApp_droid is an Android application that enables users to register, log i
 ```commandline
 +---------------------+                     +---------------------+       
 |      firebase       |                     |       android       |       
-|---------------------| 3.push notification |---------------------|       
+|---------------------|  push notification  |---------------------|       
 |                     |-------------------->|      User 2         |
 |                     |                     |                     |       
 |                     |                     |                     |      
 +---------------------+                     +---------------------+  
          |                                          | 
-         |                                          | 4.read message
+         |                                          | read message
          |                                          |
          |                                          |
          |          +---------------------+         |          +---------------------+ 
          |          |       backend       | ---->---           |       android       |
          |          |---------------------|                    |---------------------|     
           ---<------|                     |<-------------------|      User 1         |
-2.trigger firebase  |                     |  1.sending message |                     |
+trigger firebase    |                     |   sending message  |                     |
 push notification   |                     |                    |                     |      
                     +---------------------+                    +---------------------+  
 ```
